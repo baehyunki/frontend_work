@@ -15,3 +15,10 @@
 - 그라데이션 쉽게 그리는 사이트 - cssgradient.io [link](https://cssgradient.io)
 - 아이콘사이트 - iconify [link](https://iconify.design)
 - 무료 이미지 사이트 - pexels [link](https://pexels.com)
+
+---
+
+## 학습 자료
+
+- 플렉스 개념 학습 - flex froggy [link](https://flexboxfroggy.com/#ko)
+- 그리드 개념 학습 - grid garden [link](https://cssgridgarden.com/#ko)
