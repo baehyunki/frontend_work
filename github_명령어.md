@@ -28,7 +28,7 @@ git commit -m "어떤 작업을 했는지 간단하게 서술"
 - 깃 저장소 이름을 카피해옵니다.
 - (예시) https://github.com/baehyunki/repo.git
 ---
-### github 저장소에 올리는 방법
+### github 저장소 주소 등록
 ```bash
 git remote add origin https://github.com/baehyunki/repo
 ```
