@@ -9,6 +9,11 @@
 
 ---
 
+### Library
+- AOS(스크롤기반 애니메이션 라이브러리) [link](https://michalsnik.github.io/aos)
+
+---
+
 ## 유용한 사이트
 
 - 배경 지워주는 사이트 - Remove.bg [link](https://remove.bg)
