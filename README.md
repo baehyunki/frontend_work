@@ -23,6 +23,10 @@
 - 무료 이미지 사이트 - pexels [link](https://pexels.com)
 - BEM CSS 작성 방법론 [link](https://bem-cheat-sheet.9elements.com)
 - Clip Path를 이용해서 다양한 모양으로 만들기 [link](https://bennettfeely.com/clippy/)
+- color관련 유용한 사이트 (검색 키워드 : color swatch generator, color palette generator)
+  - color designer [link](https://colordesigner.io/)
+  - open color [link](https://yeun.github.io/open-color/)
+  - coolors [link](https://coolors.co/)
 
 ---
 
