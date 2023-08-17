@@ -18,6 +18,18 @@
 
 ### CSS
 
+flex에서 주축(가로) 방향으로 정렬하는 방법
+
+```CSS
+.parent{
+    justify-content: flex-start; // 기본 값, 시작(좌측)부분으로 정렬
+    justify-content: center; // 가운데 정렬
+    justify-content: flex-end; // 끝(우측)으로 정렬
+}
+```
+
+flex의 진행 방향을 바꾸는 방법
+
 ```css
 .parent {
   display: flex;
@@ -25,3 +37,5 @@
   flex-direction: column; // 주축을 Y방향(세로)로 변경
 }
 ```
+
+2. flex
