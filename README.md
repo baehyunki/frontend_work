@@ -10,6 +10,7 @@
 ---
 
 ### Library
+
 - AOS(스크롤기반 애니메이션 라이브러리) [link](https://michalsnik.github.io/aos)
 
 ---
@@ -21,6 +22,7 @@
 - 아이콘사이트 - iconify [link](https://iconify.design)
 - 무료 이미지 사이트 - pexels [link](https://pexels.com)
 - BEM CSS 작성 방법론 [link](https://bem-cheat-sheet.9elements.com)
+- Clip Path를 이용해서 다양한 모양으로 만들기 [link](https://bennettfeely.com/clippy/)
 
 ---
 
