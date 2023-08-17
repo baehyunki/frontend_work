@@ -20,6 +20,7 @@
 - 배경 지워주는 사이트 - Remove.bg [link](https://remove.bg)
 - 그라데이션 쉽게 그리는 사이트 - cssgradient.io [link](https://cssgradient.io)
 - 아이콘사이트 - iconify [link](https://iconify.design)
+- 기업, 브랜드 로고 아이콘 - simple icons [link](https://simpleicons.org/)
 - 무료 이미지 사이트 - pexels [link](https://pexels.com)
 - BEM CSS 작성 방법론 [link](https://bem-cheat-sheet.9elements.com)
 - Clip Path를 이용해서 다양한 모양으로 만들기 [link](https://bennettfeely.com/clippy/)
