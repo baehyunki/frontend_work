@@ -28,6 +28,8 @@
   - color designer [link](https://colordesigner.io/)
   - open color [link](https://yeun.github.io/open-color/)
   - coolors [link](https://coolors.co/)
+- Dummy 데이터 제공해주는 사이트 [link](https://dummyjson.com)
+- Hamburger 메뉴 라이브러리 [link](https://jonsuh.com/hamburgers/)
 
 ---
 
